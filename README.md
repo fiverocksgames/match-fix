@@ -17,4 +17,4 @@ This repository is intentionally deployment-only. It must contain only already-b
 
 The project follows the applicable policies in `fiverocksgames/devops-standards`, especially `web/PUBLIC_WEB_GAME_DEPLOYMENT_POLICY.md`.
 
-Deployment is not yet enabled. Static application output will be added only after the private source repository defines and validates its build, test, provenance, authorization, and publishing profile.
+The private source repository now defines the Match Fix web prerelease profile. Preview output is intended for `/preview/` on `main` and must originate from a verified exact-SHA private build. Publication remains blocked until the source repository's protected `preview` environment has its approved cross-repository write credential and the preview activation gate is enabled.

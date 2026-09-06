@@ -1,24 +1,36 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "3ab314d77bf7dc4492e10dc64a0b54656627af72",
+    "sourceCommit":  "ab81877a0ccb521a7c01765d48f0f713ba4142f2",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34038798241",
+    "buildRunId":  "34039265544",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-06T14:20:03.8037882Z",
+    "builtAt":  "2026-09-06T14:28:57.3418773Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
-                      "path":  "assets/index-BkcrxEm3.js",
-                      "sha256":  "b7e58096f0fc0ee5152ce49599b3fc047e2a3e6fc2f7e128855c47ad1314a547"
+                      "path":  "assets/index-bhx_u-SO.js",
+                      "sha256":  "3ee9e61734e2c20887dc142bfd1a8c9aabf1d0f23eeba44fdce6aa734ad6d415"
                   },
                   {
-                      "path":  "assets/index-CBHSWJmH.css",
-                      "sha256":  "d7214dfa017ba1a66dffcbfb5cfa14e3802319a407de5fe73fc67252c413bcf6"
+                      "path":  "assets/index-WI9EZHl4.css",
+                      "sha256":  "9a4c61f539e6626cc460a3262ece8501e6282268ddc1938dcfc4ef3e07021caf"
+                  },
+                  {
+                      "path":  "favicon.svg",
+                      "sha256":  "e77953b5ec38d65c423334d4a30451a0f2fcf888208875dfc4ff2f132f4fa3f2"
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "b35be6f259a762e7f23f2ca4769efdaa9db9b2c980ca0efd90864e35f9a93afd"
+                      "sha256":  "6671dbe0a59bf8a4d56f9ba507fb0b3254130fbf6aab77fa2ebeb5c2fdbb77e2"
+                  },
+                  {
+                      "path":  "match-fix-logo.svg",
+                      "sha256":  "38b02a089e66b0c3e6502cf4eb911cf95b15b3c4ec3c63775eb723c83389e75a"
+                  },
+                  {
+                      "path":  "og-match-fix.svg",
+                      "sha256":  "5777b4ed247ed5a6b32865ffdcf69f7acb2c83f181eb98cb1369a56f788f1e5a"
                   }
               ]
 }

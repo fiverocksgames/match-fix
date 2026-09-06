@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "ab81877a0ccb521a7c01765d48f0f713ba4142f2",
+    "sourceCommit":  "f40438c4a5427571237666478d73d7f007de5114",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34039265544",
-    "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-06T14:28:57.3418773Z",
+    "buildRunId":  "34039305227",
+    "runnerName":  "FRD-DESKTOP-01",
+    "builtAt":  "2026-09-06T14:30:09.1191676Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {

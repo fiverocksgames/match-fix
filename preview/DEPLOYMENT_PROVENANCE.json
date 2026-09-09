@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "d97a849c957d09b196ff951718f9737fce3dc54f",
+    "sourceCommit":  "ea0c5d5b618b08ea2ce52469de8ba507e3ab3b1b",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34408666586",
+    "buildRunId":  "34413197744",
     "runnerName":  "FRD-DESKTOP-01",
-    "builtAt":  "2026-09-09T21:46:25.3355642Z",
+    "builtAt":  "2026-09-09T22:39:00.3954452Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -13,12 +13,12 @@
                       "sha256":  "d0a27bea537cf2548ced056cce85f283e0fae4971542c1fa712cb5cc3bb6a9d4"
                   },
                   {
-                      "path":  "assets/index-7S0OKOk8.js",
-                      "sha256":  "a0230cf35fcc4d0da256cae367ecf8557ecf359b2f78a3efff0fd223f45bc134"
+                      "path":  "assets/index-BllUtQZg.js",
+                      "sha256":  "f1fd377eb1b829f29f6681391a1b423f26dd47270f8a3b7888108ebe9b0942bf"
                   },
                   {
-                      "path":  "assets/index-C18aUzTf.css",
-                      "sha256":  "0dd827d60fc12241762bd2cb30dd48bb5d9b35cbc01997a9012512f4ac00eb80"
+                      "path":  "assets/index-wVtTHSCk.css",
+                      "sha256":  "65e3d1dd1638856decf99ce42ac0acc99fa6c86b5b2accb26b1faf6ad47a4c3b"
                   },
                   {
                       "path":  "favicon.svg",
@@ -33,8 +33,12 @@
                       "sha256":  "b2929dd7520b035336b81529a777e9b5b2178adddea824efb4ee31e1940128ce"
                   },
                   {
+                      "path":  "feedback-timeout-ko.svg",
+                      "sha256":  "06d7b2aa8551aeeec4f9e4c4c97a3a35be081b8e80d8525b37ebaef8cfeb4e3f"
+                  },
+                  {
                       "path":  "index.html",
-                      "sha256":  "750dd10973de71628b13eb64133f8f6c85a484a83251827d96d8bd1558b01067"
+                      "sha256":  "fb69ad8d343ebe3352dd49f40244be505a9a73a926584d4f93a40b08b942b4f5"
                   },
                   {
                       "path":  "match-fix-logo.svg",

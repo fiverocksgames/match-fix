@@ -1,20 +1,20 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "2f15604f49a066a54289023d6d6e7363b3ad6d4f",
+    "sourceCommit":  "6583033ee4bcaba2c936d3089344606b875d46f2",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34341433446",
+    "buildRunId":  "34341653121",
     "runnerName":  "FRD-DESKTOP-01",
-    "builtAt":  "2026-09-09T10:41:04.5797072Z",
+    "builtAt":  "2026-09-09T10:43:29.3741149Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
-                      "path":  "assets/index-FIODPpM2.js",
-                      "sha256":  "c4cc1a100825cd1008b1de2b8b6e3794074bf2cf3d16dec26435b1e4979fe3f5"
+                      "path":  "assets/index-BWSYfnDo.css",
+                      "sha256":  "1a095be785e18b542959713e4d11e5fc22d9e1762504dda968775fe3674f98f1"
                   },
                   {
-                      "path":  "assets/index-zDpWcwTa.css",
-                      "sha256":  "16532da4411d8ecc64193d84603d4e92d5c451afcb725cd9ed3d7b5584101bb0"
+                      "path":  "assets/index-CQ4nl_Rj.js",
+                      "sha256":  "44a4a62bc3c77de6c449c913961893c02d48f9b2e416bf0418927afd41f2755a"
                   },
                   {
                       "path":  "favicon.svg",
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "59850b176ed7a3623e56af870b7b6aa49a8b709b31da170eb4f6d5509d2dfe55"
+                      "sha256":  "65011ec31c3a3e13f4cb5544cbf2b6af929520b094901b259b9b2f83c9abe47d"
                   },
                   {
                       "path":  "match-fix-logo.svg",

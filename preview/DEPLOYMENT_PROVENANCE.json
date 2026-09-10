@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "1712f1207d994a238ebadbf7848a0e1d30994d72",
+    "sourceCommit":  "06f1951bcf69e0d879846a3070a88d90fb40432a",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34436610807",
+    "buildRunId":  "34461023544",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-10T04:18:08.6952195Z",
+    "builtAt":  "2026-09-10T09:31:14.3227509Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -13,12 +13,12 @@
                       "sha256":  "d0a27bea537cf2548ced056cce85f283e0fae4971542c1fa712cb5cc3bb6a9d4"
                   },
                   {
-                      "path":  "assets/index--CcpBmdB.js",
-                      "sha256":  "6eadde49d7afa052a843db4a268a6c3a54f34531c36e4440a038172ebdea8c80"
+                      "path":  "assets/index-acS32uUK.js",
+                      "sha256":  "cb4f21f44609e2ceebfc51a66dad11f63589ebbe67466444e180d3eb1d29712c"
                   },
                   {
-                      "path":  "assets/index-DRdGTtrw.css",
-                      "sha256":  "fbb6bc4fa0936bd122ddb84462416740f1044076d12d5ddac11b27ecea7bb449"
+                      "path":  "assets/index-DkjblKnP.css",
+                      "sha256":  "a40be574de3ca92fdce4cbe429a6d960a95324b2b211e0c664ec80cb94e702cf"
                   },
                   {
                       "path":  "favicon.svg",
@@ -38,7 +38,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "496c73b64af4ff192f38b4d417ade2892c626576dbd00fc2b37a627dfb8305c6"
+                      "sha256":  "12fcffc01e01e2f2958bd52200feaba59cff0777befda0b3b852de8f92620906"
                   },
                   {
                       "path":  "match-fix-logo.svg",
@@ -47,6 +47,10 @@
                   {
                       "path":  "match-fix-mark.svg",
                       "sha256":  "eb4d62945bbf8e4005c7a339b645f15b349346bb121b50772de22655237ab218"
+                  },
+                  {
+                      "path":  "og-match-fix.png",
+                      "sha256":  "f8530f5d0ed56ad3ac1e8d2d564602cd9de42d4314d122d83bded5c389246a5c"
                   },
                   {
                       "path":  "og-match-fix.svg",

@@ -1,24 +1,80 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "a961e3536ced00977ad3ba659d6cb18274849302",
+    "sourceCommit":  "56b569191e0a2de2660843f8622939099e198a35",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34684622568",
+    "buildRunId":  "34699986615",
     "runnerName":  "FRD-DESKTOP-01",
-    "builtAt":  "2026-09-12T08:59:34.1965128Z",
+    "builtAt":  "2026-09-12T14:41:39.8986810Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
+                  {
+                      "path":  "assets/feedback-correct-de-DlrBPOS_.png",
+                      "sha256":  "d82298ca18a9da160134365248c24b8e27c948c3e9a53c762aaa227ea3d361a6"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-en-CviHImxc.png",
+                      "sha256":  "1220d5686c9bcf43ed294cc7506a4e45bc4c041bf78a588c24ae5652431f1f16"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-es-GJaySp2U.png",
+                      "sha256":  "fdcea956922b226477e0308a4f1fe3dda7b13d17c41ec97cebc705b25968b8ab"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-fr-DSn9ndOo.png",
+                      "sha256":  "33667cd5534acdd0d455de91623ff20a9530ff9d5aa22634a87091e032a5f324"
+                  },
                   {
                       "path":  "assets/feedback-correct-hq-CH5R8zJk.svg",
                       "sha256":  "d0a27bea537cf2548ced056cce85f283e0fae4971542c1fa712cb5cc3bb6a9d4"
                   },
                   {
-                      "path":  "assets/index-CCDqax7C.css",
-                      "sha256":  "192a3daf0c5c0c76f7297d6b39e3bc076c04ae4a0c822731b24136a69fcd5655"
+                      "path":  "assets/feedback-correct-id-B1mDvtPu.png",
+                      "sha256":  "115930f8855f0537db6e705c5c2a6f55e1cb793ed03c9c4dabe31a9317966154"
                   },
                   {
-                      "path":  "assets/index-qA4uTLjH.js",
-                      "sha256":  "11197b592a12cc63aa88494d4c871805260224d835d3c57600784aa850522d72"
+                      "path":  "assets/feedback-correct-it-CuxrB1I8.png",
+                      "sha256":  "4d95407ac93d0dca5da1f72c7fe3f054c15f7cf1600b45361fc969c2f86fc70c"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-ja-ZuLtlHPm.png",
+                      "sha256":  "334e1343ed107ecad14dbb89d99866e3c822bc56a79fd86c7c92ea3b34694e50"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-ko-DTVw4b6H.png",
+                      "sha256":  "d49ccb0911115eb7b40951e47443490ed96c609e57e1ffc20aa47d0b1c154c74"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-pt-BR-i82CHeif.png",
+                      "sha256":  "2b3b8f04a03f78af7823bee4b95c08bc4ff2863ff78976a68efa723606dab3f9"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-ru-CGbYxAIN.png",
+                      "sha256":  "011d7d18cd4bd4eec7ff6566689fd9d9d5e3fa09ceddc6be89bfdbcc0a8e45e7"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-th-CePXA8xc.png",
+                      "sha256":  "ec0227d4b73418d55b0bcc3ce00dd45b21a69e41857983f922c01dc38765b9da"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-vi-BX53ygfY.png",
+                      "sha256":  "a09e9018089f5bb03693f4dc744ffc777abeb421dc13ed69ca9952cbe6423228"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-zh-CN-BkPaFPKL.png",
+                      "sha256":  "e9a65eddade15320da06b11b8bb9da97a846ca42a1b69901f6152af3b27f443d"
+                  },
+                  {
+                      "path":  "assets/feedback-correct-zh-TW-BqJxpbJR.png",
+                      "sha256":  "733fa22718c918fcc8ca7ff88c513b4b69b5ccc59f7b9d193ad4d6873cf32b8c"
+                  },
+                  {
+                      "path":  "assets/index-Cjl0QEl0.js",
+                      "sha256":  "d5349a9a39b2155cb28c6e5e1efb89b09811da2f589e2275e7fed95eeaf6ea51"
+                  },
+                  {
+                      "path":  "assets/index-CmSBSz9G.css",
+                      "sha256":  "a77645ccac94f9be4e95d67ac5e861a3c371be03374b519af890e99be7ab69f8"
                   },
                   {
                       "path":  "favicon.svg",
@@ -38,7 +94,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "6ac758edf5e7a28068f28d610f0dd6bfab582c5727bb8e3429c7fe5ac36c5924"
+                      "sha256":  "b067242901ad9ee2935f9d7e67f09ec58a6dda04ba0559f96179a9e388cb9a24"
                   },
                   {
                       "path":  "match-fix-logo.svg",

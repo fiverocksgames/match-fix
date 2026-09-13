@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "3dc83ee76e4a05bda80136e9cd0a29efcff48c30",
+    "sourceCommit":  "81a661c6888ba43d66fd865f9d5460f3338c3a5d",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34749723211",
+    "buildRunId":  "34755055984",
     "runnerName":  "FRD-DESKTOP-01",
-    "builtAt":  "2026-09-13T09:37:00.6740549Z",
+    "builtAt":  "2026-09-13T11:41:52.9724794Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -69,16 +69,12 @@
                       "sha256":  "733fa22718c918fcc8ca7ff88c513b4b69b5ccc59f7b9d193ad4d6873cf32b8c"
                   },
                   {
-                      "path":  "assets/index-BH_a1fA-.js",
-                      "sha256":  "f9895ff8196bcff51184859ceea0ecf05c157042191bb8698f7a29cdddeef777"
+                      "path":  "assets/index-BG8cCF3Z.js",
+                      "sha256":  "a4f7a4bf3132bce8e76406453f4281131e5151ad051e1185416727491e540e8f"
                   },
                   {
-                      "path":  "assets/index-DTzwgbQj.css",
-                      "sha256":  "96c8e7d87f24e725dc7026d8ebd508ca91775c50d1f962ef682e0cdb5759f521"
-                  },
-                  {
-                      "path":  "DEPLOYMENT_PROVENANCE.json",
-                      "sha256":  "c55b34d0e1d6638ebd428d4e723eb4933f89483d7b242d86b2f44280d9c790ec"
+                      "path":  "assets/index-DgG3iFid.css",
+                      "sha256":  "ef23dfb1d3d8c099b293d9997c33c78a5cc7abb55cd6be63ff5659016cd07e00"
                   },
                   {
                       "path":  "favicon.svg",
@@ -98,7 +94,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "1a17a0b18f394fdc972dac95847b1f5caf457a574ebde80b319df84f665668e1"
+                      "sha256":  "2f94519593061e879412dafb65b25da8d3c2d76f10930df74780d251f3a2d07d"
                   },
                   {
                       "path":  "match-fix-logo.svg",

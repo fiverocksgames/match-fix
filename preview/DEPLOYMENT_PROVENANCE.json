@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "f5b35fa7ceb9064912b7182e87f067f99efcf89d",
+    "sourceCommit":  "6d556ca39635a93a9b2c4c06af0448296a7fee48",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "34759220663",
+    "buildRunId":  "34804146789",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-13T13:13:52.1935697Z",
+    "builtAt":  "2026-09-14T03:54:40.6643921Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -13,68 +13,68 @@
                       "sha256":  "fd2a063a401f20fe7465ff6ee1649e97576f55912c49cbb0a64faac5a530fb1c"
                   },
                   {
-                      "path":  "assets/feedback-correct-de-DlrBPOS_.png",
-                      "sha256":  "d82298ca18a9da160134365248c24b8e27c948c3e9a53c762aaa227ea3d361a6"
+                      "path":  "assets/feedback-correct-de-ABVmSJWi.png",
+                      "sha256":  "29d2f812b556c62dbb6262801515d2ce0550f8a919f45f238cc9f954e94f3fca"
                   },
                   {
-                      "path":  "assets/feedback-correct-en-CviHImxc.png",
-                      "sha256":  "1220d5686c9bcf43ed294cc7506a4e45bc4c041bf78a588c24ae5652431f1f16"
+                      "path":  "assets/feedback-correct-en-DAac_3ox.png",
+                      "sha256":  "60756ebef4214e364af43ab2b8e883bdd8920c748d0114615056863e12f601f6"
                   },
                   {
-                      "path":  "assets/feedback-correct-es-GJaySp2U.png",
-                      "sha256":  "fdcea956922b226477e0308a4f1fe3dda7b13d17c41ec97cebc705b25968b8ab"
+                      "path":  "assets/feedback-correct-es-A9EFu_Jb.png",
+                      "sha256":  "03cb5869ef993ca2d516f8218d62d3b905e6afe714e22b32f4b78ab3980ffbb4"
                   },
                   {
-                      "path":  "assets/feedback-correct-fr-DSn9ndOo.png",
-                      "sha256":  "33667cd5534acdd0d455de91623ff20a9530ff9d5aa22634a87091e032a5f324"
+                      "path":  "assets/feedback-correct-fr-uik9cMK9.png",
+                      "sha256":  "d8c4d0bafbab01b8707776cdb662dadf9bc636577134cb429942743b9e77598e"
                   },
                   {
-                      "path":  "assets/feedback-correct-id-B1mDvtPu.png",
-                      "sha256":  "115930f8855f0537db6e705c5c2a6f55e1cb793ed03c9c4dabe31a9317966154"
+                      "path":  "assets/feedback-correct-id-Cz0AaoIe.png",
+                      "sha256":  "e0b6588da92e2cb2f6698cc00200dd4a74bd3fe79c08e271adfc5d8fbbde841d"
                   },
                   {
-                      "path":  "assets/feedback-correct-it-CuxrB1I8.png",
-                      "sha256":  "4d95407ac93d0dca5da1f72c7fe3f054c15f7cf1600b45361fc969c2f86fc70c"
+                      "path":  "assets/feedback-correct-it-CPHSm_wR.png",
+                      "sha256":  "c6ea3df7939134bdc48404b24d153485738e00fd27aa5fde8f4ff51168054597"
                   },
                   {
-                      "path":  "assets/feedback-correct-ja-ZuLtlHPm.png",
-                      "sha256":  "334e1343ed107ecad14dbb89d99866e3c822bc56a79fd86c7c92ea3b34694e50"
+                      "path":  "assets/feedback-correct-ja-P5vvwPWg.png",
+                      "sha256":  "9f3749482a835e9f71b780797305d4bafe3350e4c33111785c6b01d75317d5c6"
                   },
                   {
-                      "path":  "assets/feedback-correct-ko-DTVw4b6H.png",
-                      "sha256":  "d49ccb0911115eb7b40951e47443490ed96c609e57e1ffc20aa47d0b1c154c74"
+                      "path":  "assets/feedback-correct-ko-ChtYoUhq.png",
+                      "sha256":  "8e6d86b3fe01d2e0ad66361d775f6d35f668a9a579f3bf7931713f68a81f38ef"
                   },
                   {
-                      "path":  "assets/feedback-correct-pt-BR-i82CHeif.png",
-                      "sha256":  "2b3b8f04a03f78af7823bee4b95c08bc4ff2863ff78976a68efa723606dab3f9"
+                      "path":  "assets/feedback-correct-pt-BR-BPYnKEFy.png",
+                      "sha256":  "4246adf222db16966b80148ce930b57409722a9aaf615002d4c1fab91e621680"
                   },
                   {
-                      "path":  "assets/feedback-correct-ru-CGbYxAIN.png",
-                      "sha256":  "011d7d18cd4bd4eec7ff6566689fd9d9d5e3fa09ceddc6be89bfdbcc0a8e45e7"
+                      "path":  "assets/feedback-correct-ru-BWJsv06d.png",
+                      "sha256":  "629f2c8205b7eaa8bc0bca9411700463805ef35bf5e3b8aa09412e379e456436"
                   },
                   {
-                      "path":  "assets/feedback-correct-th-CePXA8xc.png",
-                      "sha256":  "ec0227d4b73418d55b0bcc3ce00dd45b21a69e41857983f922c01dc38765b9da"
+                      "path":  "assets/feedback-correct-th-BZMmtltZ.png",
+                      "sha256":  "10c6802ae271c651c1d3df501837a0516e648d3f805eb3f094bf84766b29769f"
                   },
                   {
-                      "path":  "assets/feedback-correct-vi-BX53ygfY.png",
-                      "sha256":  "a09e9018089f5bb03693f4dc744ffc777abeb421dc13ed69ca9952cbe6423228"
+                      "path":  "assets/feedback-correct-vi-CWWU4Won.png",
+                      "sha256":  "654713d74f4a4bd27dc990a854e3d4ea696c11aaf4cbb6bcccf3e259712751fe"
                   },
                   {
-                      "path":  "assets/feedback-correct-zh-CN-BkPaFPKL.png",
-                      "sha256":  "e9a65eddade15320da06b11b8bb9da97a846ca42a1b69901f6152af3b27f443d"
+                      "path":  "assets/feedback-correct-zh-CN-BIRh57sz.png",
+                      "sha256":  "8ee047243e08aecb67a0bed77d301d8baf25418718a77173832dde887a317747"
                   },
                   {
-                      "path":  "assets/feedback-correct-zh-TW-BqJxpbJR.png",
-                      "sha256":  "733fa22718c918fcc8ca7ff88c513b4b69b5ccc59f7b9d193ad4d6873cf32b8c"
+                      "path":  "assets/feedback-correct-zh-TW-Ml1yqEvQ.png",
+                      "sha256":  "5cf9074650cae2cb59525ae40fc86336efd1d7a6a2390c13936eb7ad85a16d06"
                   },
                   {
-                      "path":  "assets/index-DgG3iFid.css",
-                      "sha256":  "ef23dfb1d3d8c099b293d9997c33c78a5cc7abb55cd6be63ff5659016cd07e00"
+                      "path":  "assets/index-CyygYFtt.js",
+                      "sha256":  "b2504a605bcf67077a64ed690284f38c5f7a3bf1521fc24baf59a4bba2cd8b01"
                   },
                   {
-                      "path":  "assets/index-DL7H1FZA.js",
-                      "sha256":  "306f5afb452788ee3632dcc5e4207da14f8c66e25115869f4083fdce23f46934"
+                      "path":  "assets/index-D4UFGYA-.css",
+                      "sha256":  "111ed55a44536162ba3644a8b531dca702f60f01e14c94410cf53e28866a8947"
                   },
                   {
                       "path":  "favicon.svg",
@@ -94,7 +94,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "41c86ba538f7c5f3804b727fc28ce7049854f055e1175fb41fec4c9760fd714a"
+                      "sha256":  "a6b37e41b1a529273e89274ccd3d3d36c43cf1b64753431f296478b15c45e1c7"
                   },
                   {
                       "path":  "match-fix-logo.svg",

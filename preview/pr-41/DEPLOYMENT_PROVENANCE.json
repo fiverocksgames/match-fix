@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "8eb6d978e0cf6fe08e5d96ae77cbd5eb6dd660b8",
+    "sourceCommit":  "47ff71b2b7627f86b580b303dac1b7f1c7c8af6d",
     "pullRequest":  41,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "35097262171",
-    "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-16T12:42:35.4575875Z",
+    "buildRunId":  "35111122250",
+    "runnerName":  "FRD-DESKTOP-01",
+    "builtAt":  "2026-09-16T14:50:44.9224947Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -71,8 +71,8 @@
                       "sha256":  "5cf9074650cae2cb59525ae40fc86336efd1d7a6a2390c13936eb7ad85a16d06"
                   },
                   {
-                      "path":  "assets/index-1fGz-2a8.js",
-                      "sha256":  "998ed15c6f8d7c5d7d167172d4b599b59738b44ce2798a7d983dd54f84c94c26"
+                      "path":  "assets/index-DGLQVE-X.js",
+                      "sha256":  "205fc2b95bdd0f74e0fa2c8a93c4c63021d5235ab4ac46305c20f65e0055ec26"
                   },
                   {
                       "path":  "assets/index-DXKK1SJk.css",
@@ -96,7 +96,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "1fc71a3a0ef06e05680d41398085f028545c9e0b00f5e9bb03b219bac751405d"
+                      "sha256":  "1d618922612974a73872714e393f95bd7fd402d53300d47725c050bb4f0118dc"
                   },
                   {
                       "path":  "match-fix-logo.svg",

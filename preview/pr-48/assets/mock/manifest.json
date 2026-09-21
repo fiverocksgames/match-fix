@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "ads": [
+    {
+      "id": "match-fix-mock-001",
+      "video": "assets/mock/265552.mp4",
+      "clickUrl": "https://fiverocksgames.github.io/game-hub/",
+      "formats": [
+        "rewarded"
+      ],
+      "weight": 1
+    }
+  ]
+}

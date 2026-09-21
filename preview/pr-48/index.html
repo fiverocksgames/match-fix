@@ -15,7 +15,7 @@
       content="성냥을 정확히 옮겨 틀린 식을 고치고, 다섯 난이도와 무한모드에 도전해보세요."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://fiverocksgames.github.io/match-fix/preview/?v=5011b56ece11387274165b1639b7d4148cb87805" />
+    <meta property="og:url" content="https://fiverocksgames.github.io/match-fix/preview/?v=cc9aac63511e296b63d201b39ad8519ab0aa248d" />
     <meta property="og:image" content="https://fiverocksgames.github.io/match-fix/preview/og-match-fix-v2.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -31,10 +31,25 @@
     <meta name="twitter:image:alt" content="Match Fix matchstick puzzle game preview" />
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <title>Match Fix | 성냥 퍼즐</title>
-    <script type="module" crossorigin src="./assets/index-C2A1KPMM.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-C9Yl2DJB.css">
+    <script type="module" crossorigin src="./assets/index-B46yi-_w.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Dl7EDjBa.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"></div>
+    <div class="match-fix-mock-ad" id="mockAd" hidden role="dialog" aria-modal="true" aria-label="Mock advertisement · development only">
+      <section class="match-fix-mock-card" aria-labelledby="mockAdTitle">
+        <span class="match-fix-mock-badge">MOCK AD · DEVELOPMENT ONLY</span>
+        <h2 id="mockAdTitle">Mock rewarded advertisement</h2>
+        <p>테스트용 가상 광고입니다. 영상을 끝까지 시청한 뒤 보상을 받을 수 있습니다.</p>
+        <video id="mockAdVideo" playsinline preload="metadata" aria-label="Five-second synthetic mock advertisement"></video>
+        <p id="mockAdCountdown" role="status">Preparing mock ad…</p>
+        <div class="match-fix-mock-actions">
+          <button id="mockAdCancel" type="button">광고 닫기</button>
+          <button id="mockAdClickThrough" type="button" disabled>Visit advertiser</button>
+          <button id="mockAdAction" type="button" disabled>Continue</button>
+        </div>
+      </section>
+    </div>
+
   </body>
 </html>

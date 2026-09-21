@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "ceaf01aa7f4e2bce93992f0b62a5d5ac4eb1b496",
+    "sourceCommit":  "24d7269e8ce12b7a08b935fee24eba2afb40eb18",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "35311448968",
-    "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-18T05:36:52.6243014Z",
+    "buildRunId":  "35589965470",
+    "runnerName":  "FRD-DESKTOP-01",
+    "builtAt":  "2026-09-21T10:41:11.7387916Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -69,12 +69,72 @@
                       "sha256":  "ba10f0635da7e8e577e7244cb531d9b7514243ed78c773386fb7797b57b4b398"
                   },
                   {
-                      "path":  "assets/index-BR0yacLt.css",
-                      "sha256":  "38137cacde14d0c68e4bf8dc2cca050a9abb7822a0c9b7cb393955e4e4580be8"
+                      "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
+                      "sha256":  "ae079a9c23634dd722b0e06cd9615456866b230b9b57eed41bb46da4369f8664"
                   },
                   {
-                      "path":  "assets/index-C_kAQiKA.js",
-                      "sha256":  "b42b635f1a1d3e6d1114ea3f08d8ec4696af65fc6b7a6d085c83fac349f8aa22"
+                      "path":  "assets/feedback-timeout-text-de-C_r0DRo7.png",
+                      "sha256":  "2ce31d8961c42eb7217133778715b45e4ba7575611504ec0200dac7fce0f2801"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-en-Corjm6Ho.png",
+                      "sha256":  "5310cb5510d172f713733e1334acfbd56a9e82f465a18185ab7970c4407f15f6"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-es-DOHTVn14.png",
+                      "sha256":  "ddf2976311c30d133802585bdb51afa25df8edf2008d8f2831b8a227c9c7ee0b"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-fr-CQJSKsjX.png",
+                      "sha256":  "d54351ec668c1f216b9d908491566d82cc782cfb37b9f4748d8010e5f70a94fb"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-id-BXqlmV1n.png",
+                      "sha256":  "f15ac403a2d7d98ef9ddb5ef6a13b7bfb761ceacf1521dd510c1004fd37aa93a"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-it-D7BFRqRw.png",
+                      "sha256":  "bad0e744b86e7e6f0c8349468d2e534de613bec0b6e9e1a77f94e29955986057"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-ja-tY3XSPyK.png",
+                      "sha256":  "29f1c2c638149dabe8b289d16896e334781bb2b055a338e4f42cfbde2a9cccad"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-ko-CnX0FJ1o.png",
+                      "sha256":  "a39188ca7b8beefa0168c173d7cd92e5719cd2fd6ce064061160e7cbe619088e"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-pt-BR-CLYT9AHP.png",
+                      "sha256":  "3793d708dcca629901e58a5701f7457c6565d84359cd6353fd191a7a7f8f6528"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-ru-D3ZHDZdb.png",
+                      "sha256":  "fa5db9b59d74aae47f85fb3d12e474ec7fabef7dddb45d54af55f995ad2f3a7b"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-th-DTl2ZDvj.png",
+                      "sha256":  "6dc90936cf1ecee960418471f0be4fe51527ec3c835e564bc1801c63e6d867a0"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-vi-B-kce6T4.png",
+                      "sha256":  "e0133b6d5b0a11720c617d0461e3e68e95efcc82efe2dd03b0611ebba36e34e2"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-zh-CN-COcaSwJP.png",
+                      "sha256":  "ac6824747339fb1fc4b3d5567b8e90e05a3823ee5360a159367ccb422f2a06af"
+                  },
+                  {
+                      "path":  "assets/feedback-timeout-text-zh-TW-CE0696WK.png",
+                      "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
+                  },
+                  {
+                      "path":  "assets/index-BOZx6zQc.js",
+                      "sha256":  "1b73067cda9c3417e69962a3b548f6570a21ce0532a4647fedf3029ee988da8a"
+                  },
+                  {
+                      "path":  "assets/index-C9Yl2DJB.css",
+                      "sha256":  "c0f70354959b0fef614205d30a2dab067542abaeadc831e110927b7d25fb4ebc"
                   },
                   {
                       "path":  "favicon.svg",
@@ -94,7 +154,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "7f32f2ede5f4484e6ed7004f42fae64f9edcf48df77aaabaae39c5722a96588c"
+                      "sha256":  "d79f442d07d107b91c53a20cce44d5d088695379b961c9b628c86ead30e03e84"
                   },
                   {
                       "path":  "match-fix-logo.svg",

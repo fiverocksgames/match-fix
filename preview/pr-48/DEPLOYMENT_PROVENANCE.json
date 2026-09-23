@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "6340469705fc608be833041b1488b5895898c6df",
+    "sourceCommit":  "13fbce8cb8a9be1cc10af5d7ff45e4786db06771",
     "pullRequest":  48,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "35670843511",
-    "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-22T00:11:36.6096349Z",
+    "buildRunId":  "35859713319",
+    "runnerName":  "FRD-DESKTOP-01",
+    "builtAt":  "2026-09-23T12:21:28.5945078Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-D9pW9Cma.js",
-                      "sha256":  "18c1407b25fc8a098af2ce833320465dd615df654efdf25bf402809199d92e94"
+                      "path":  "assets/FeedbackSceneLab-CHUG6Y1I.js",
+                      "sha256":  "db424a003d36b52a00fd36d38a59361e0b1850b3e8b547ac7d66d933ef089b7a"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,20 +139,20 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-CwKGpaFV.js",
-                      "sha256":  "751b9e2ded84af3747bf260d8b7f6e100b9ec45fc375bd075a4f6c78177534a6"
+                      "path":  "assets/index-BrWe0010.js",
+                      "sha256":  "0c0948badb36c56d7a29df34830a969a16435962b488281ba961538fb749e80c"
                   },
                   {
-                      "path":  "assets/index-Dl7EDjBa.css",
-                      "sha256":  "d7e65fdc7c06542eccb262b3caa2f3b279177e6c9ebf41e47511dd677fddc413"
-                  },
-                  {
-                      "path":  "assets/mock/265552-v2.mp4",
-                      "sha256":  "8eacb93c7a1d2c2abfd471c22336078fcf2b6ad0fbeda442a2d2d3c15f29132c"
+                      "path":  "assets/index-C9Yl2DJB.css",
+                      "sha256":  "c0f70354959b0fef614205d30a2dab067542abaeadc831e110927b7d25fb4ebc"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
-                      "sha256":  "83ad9afd19840abec33b1563cc32cc7e26e3e2c35392bfdf5d5f1006d01d5cec"
+                      "sha256":  "0bc0faf77188b022937fafff454e42e9a5d3f5df6be11bdf4654472b2f7971ca"
+                  },
+                  {
+                      "path":  "assets/mock/match-fix-mock-30s.mp4",
+                      "sha256":  "9e34a00da08e9191cea5e444f0b9d954d757f1ce309e3cbb0715b47b0c2b8772"
                   },
                   {
                       "path":  "favicon.svg",
@@ -172,7 +172,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "81df4a220931da2f8bcc42f08064ad9a1b2eec9114d5b22977ef1636dd915a9e"
+                      "sha256":  "90690301a0692d7e94a085de9e93f60a129291cbb7de61e9c49c2adfc9724eba"
                   },
                   {
                       "path":  "match-fix-logo.svg",

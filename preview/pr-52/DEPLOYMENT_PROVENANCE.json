@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "3d8dd94ae72ac68efa98d671a25b79b27bf05b3f",
+    "sourceCommit":  "6b2db59fa59332b56a78f641c1c37ac3daf44f8a",
     "pullRequest":  52,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "36226865374",
+    "buildRunId":  "36294960152",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-26T07:28:53.0515575Z",
+    "builtAt":  "2026-09-27T04:41:47.9812589Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-CtufFx3B.js",
-                      "sha256":  "1bb98d349a27ccc5059bd00a365f693b3db4123ff04f33d41d514236ef994a64"
+                      "path":  "assets/FeedbackSceneLab-CWdi68MP.js",
+                      "sha256":  "1a85f0ee0c0db1335003b58bbc76808a6b41a491f65f9a8f37c0a63eb5efacc7"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -143,8 +143,8 @@
                       "sha256":  "c0f70354959b0fef614205d30a2dab067542abaeadc831e110927b7d25fb4ebc"
                   },
                   {
-                      "path":  "assets/index-CUEaAQMB.js",
-                      "sha256":  "82ff41aaca775613e694a3ef70b4fe09018d1e4d65e52c91560ac6c1844b7c3b"
+                      "path":  "assets/index-DlpxU_XJ.js",
+                      "sha256":  "9570aa325210f3319894ddb44775763007ddd1306e3db07c4ebd3728ac3236a7"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -172,7 +172,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "e008cb4ebf99a65584b4aeeff782cc35ada343571c9a1bd299549909d01c267e"
+                      "sha256":  "7d4ecafd7fc366c88c5d934329c7760eae2910da9d1c64e383cdb0bbce29a88a"
                   },
                   {
                       "path":  "match-fix-logo.svg",

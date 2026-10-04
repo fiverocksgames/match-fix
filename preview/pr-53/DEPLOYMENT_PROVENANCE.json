@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "39da0f6c68bee1417f76c7ef00a7ee0dec897031",
+    "sourceCommit":  "39f766de33df77071c0dd6a6b5b79efd583f86a2",
     "pullRequest":  53,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37172069013",
+    "buildRunId":  "37177238710",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-04T02:47:52.5434581Z",
+    "builtAt":  "2026-10-04T04:38:40.0288395Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -71,8 +71,8 @@
                       "sha256":  "ba10f0635da7e8e577e7244cb531d9b7514243ed78c773386fb7797b57b4b398"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-BiMPZztQ.js",
-                      "sha256":  "67f6d1450b35707599ad0bf760579bc039f5fe7d28650f8cb90d5c5fb8603e41"
+                      "path":  "assets/FeedbackSceneLab-Bl9CXC56.js",
+                      "sha256":  "2821072e88e150e5574b78d8a953b89b13f9a404c9f79b53060e70c33a08f87d"
                   },
                   {
                       "path":  "assets/FeedbackSceneLab-CA-JpkVL.css",
@@ -143,8 +143,8 @@
                       "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
                   },
                   {
-                      "path":  "assets/index-DxzbfafS.js",
-                      "sha256":  "34e812e35fca1b7dd61d35a5875bf366ebb5cce9cd2d0dcf06af0fd87886682d"
+                      "path":  "assets/index-DbV9LgDF.js",
+                      "sha256":  "7ad38a5741514d2be95fa8d244b367d0a6074a728d4153fdbbab480cadf63a34"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -172,7 +172,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "929985b593cd413ad69c9e7f8b651cf4da58cee09163107ab887ecb1bff3a5c9"
+                      "sha256":  "1acc1c8b2a80a5106e6e916db6007edcc8b591d9c5ff6afa4c697d29ccbf278a"
                   },
                   {
                       "path":  "match-fix-logo.svg",

@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "be52755a4a79d4d9d13ca68d504ee58e0554db1a",
+    "sourceCommit":  "1705f8321139a8774695a11b205f0801807daa0f",
     "pullRequest":  52,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "36660666770",
+    "buildRunId":  "37166881879",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-09-30T02:38:10.0775479Z",
+    "builtAt":  "2026-10-04T01:05:19.8454991Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -71,12 +71,12 @@
                       "sha256":  "ba10f0635da7e8e577e7244cb531d9b7514243ed78c773386fb7797b57b4b398"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-C5ADJlDX.js",
-                      "sha256":  "25a3b17bef15cdaf0f04988b27ae566106328eea608314b0b67e3d96ae272580"
-                  },
-                  {
                       "path":  "assets/FeedbackSceneLab-CA-JpkVL.css",
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
+                  },
+                  {
+                      "path":  "assets/FeedbackSceneLab-CRNfZL-q.js",
+                      "sha256":  "8d7959ca8c3b941bfc462dfef518b683e9f0559e74e3e9ecb615140c0d4bc503"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -143,8 +143,8 @@
                       "sha256":  "c0f70354959b0fef614205d30a2dab067542abaeadc831e110927b7d25fb4ebc"
                   },
                   {
-                      "path":  "assets/index-DHRy7I2q.js",
-                      "sha256":  "e9972561c5991d3794109668c095dfef249e52b023ecfe82befbef44c076aaac"
+                      "path":  "assets/index-ClGlytFy.js",
+                      "sha256":  "540e598b0b444b7fa69dcbbb41cbd76885fcd2cbaba98d5039e01535401205db"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -172,7 +172,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "d828ab62e4afb09d1ff1d8be0d839291bdbbba2daebff48ef06f0ca9b2ce0399"
+                      "sha256":  "5cc60a59c75a6122b59e6d96279a5dba8251437003df6a076940c8fc18ef2e28"
                   },
                   {
                       "path":  "match-fix-logo.svg",

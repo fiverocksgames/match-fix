@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "41835e6b1a9dcad4ae7caa40baf6c902db12c590",
+    "sourceCommit":  "d6c8a8ddc29ce5dc8ec2e409842d8ff5813d463a",
     "pullRequest":  55,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37386962610",
+    "buildRunId":  "37387506414",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T23:11:37.8824415Z",
+    "builtAt":  "2026-10-05T23:17:36.4556909Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-CXR2opsw.js",
-                      "sha256":  "e6328afb1df3e35e194acadea6ce14cf5dc8cdf9fe9f2b96359694d9a9d90258"
+                      "path":  "assets/FeedbackSceneLab-Da9SYqkV.js",
+                      "sha256":  "a268cc31ffc1e50820d388620f7b24db8cb3fd75d699a392842b62f47ce41096"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,12 +139,12 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-CbK7sajv.js",
-                      "sha256":  "97af418cb832afa12e9615123acd59c54acf19850737674629ac45277bd4cf47"
-                  },
-                  {
                       "path":  "assets/index-C-TIB_7p.css",
                       "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
+                  },
+                  {
+                      "path":  "assets/index-DLCIO7vd.js",
+                      "sha256":  "bd6d4a9de6f4d9254094f65eb7b9a41bd6049af094f84d9bd602bb0b3e688a7d"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -180,7 +180,7 @@
                   },
                   {
                       "path":  "audition/sfx/roulette-reward.html",
-                      "sha256":  "5442ab5b30d60f28c0b9bc10b6dffdd47ff5420abd7c64483c3a45e43931fc06"
+                      "sha256":  "0cc241c1c03a5e77a8c870ab5ae1b72fbff3e5a34876bac7e36780219dfe1657"
                   },
                   {
                       "path":  "favicon.svg",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "49311cf0b116cc64de81a07c2f5704cf6a6be086001d05ad5d40e5d217fa03a5"
+                      "sha256":  "b91172c08d4874d340b8d41e41671086a215321a40e1953db122e42ae670a96c"
                   },
                   {
                       "path":  "match-fix-logo.svg",

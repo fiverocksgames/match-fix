@@ -2,6 +2,33 @@ const AudioCtx=window.AudioContext||window.webkitAudioContext;let ctx;
 function ac(){if(!ctx)ctx=new AudioCtx();return ctx}
 function osc(c,type,f0,f1,t0,d,g=.10){const o=c.createOscillator(),v=c.createGain();o.type=type;o.frequency.setValueAtTime(f0,t0);if(f1)o.frequency.exponentialRampToValueAtTime(Math.max(30,f1),t0+d);v.gain.setValueAtTime(.0001,t0);v.gain.exponentialRampToValueAtTime(g,t0+.01);v.gain.exponentialRampToValueAtTime(.0001,t0+d);o.connect(v).connect(c.destination);o.start(t0);o.stop(t0+d+.02)}
 function noise(c,t0,d,g=.035){const b=c.createBuffer(1,Math.ceil(c.sampleRate*d),c.sampleRate),a=b.getChannelData(0);for(let i=0;i<a.length;i++)a[i]=(Math.random()*2-1)*(1-i/a.length);const s=c.createBufferSource(),v=c.createGain();s.buffer=b;v.gain.setValueAtTime(g,t0);v.gain.exponentialRampToValueAtTime(.0001,t0+d);s.connect(v).connect(c.destination);s.start(t0)}
+function rouletteTicks(c,variant){
+  const t0=c.currentTime+.02;
+  const duration=3.2;
+  let t=0;
+  let i=0;
+  while(t<duration){
+    const p=t/duration;
+    const interval=.045 + Math.pow(p,2.35)*.34;
+    const tt=t0+t;
+    if(variant==="wood"){
+      osc(c,"triangle",420,320,tt,.045,.065);
+      if(i%3===0) noise(c,tt,.025,.012);
+    }else if(variant==="tonal"){
+      const f=i%2===0?620:560;
+      osc(c,"sine",f,f*.98,tt,.038,.055);
+    }else{
+      osc(c,"square",760,540,tt,.028,.045);
+      noise(c,tt,.018,.01);
+    }
+    t+=interval;
+    i++;
+  }
+  const end=t0+duration;
+  if(variant==="wood") osc(c,"triangle",300,220,end,.11,.085);
+  if(variant==="tonal") osc(c,"sine",520,390,end,.12,.08);
+  if(variant==="mechanical") osc(c,"square",430,280,end,.08,.07);
+}
 const fx={
 "deny-soft":c=>{let t=c.currentTime;osc(c,"triangle",380,210,t,.12,.10);noise(c,t,.08,.035)},
 "deny-double":c=>{let t=c.currentTime;osc(c,"square",250,220,t,.06,.10);osc(c,"square",220,170,t+.09,.08,.10)},
@@ -9,6 +36,9 @@ const fx={
 "reward-sparkle":c=>{let t=c.currentTime;[660,880,1175].forEach((f,i)=>osc(c,"sine",f,f*1.06,t+i*.07,.22,.10))},
 "reward-pop":c=>{let t=c.currentTime;noise(c,t,.06,.04);osc(c,"triangle",520,920,t,.22,.10);osc(c,"sine",1040,1320,t+.11,.22,.10)},
 "reward-jackpot":c=>{let t=c.currentTime;[523,659,784,1046].forEach((f,i)=>osc(c,i<2?"triangle":"sine",f,f*1.02,t+i*.06,.28,.10))},
+"roulette-tick-wood":c=>rouletteTicks(c,"wood"),
+"roulette-tick-tonal":c=>rouletteTicks(c,"tonal"),
+"roulette-tick-mechanical":c=>rouletteTicks(c,"mechanical"),
 "master-warm":c=>{let t=c.currentTime;[392,523,659].forEach((f,i)=>osc(c,"sine",f,f,t+i*.12,.42,.10))},
 "master-premium":c=>{let t=c.currentTime;[440,554,659,880].forEach((f,i)=>osc(c,"triangle",f,f*1.03,t+i*.09,.34,.10))},
 "master-flourish":c=>{let t=c.currentTime;osc(c,"sine",330,660,t,.36,.10);osc(c,"sine",660,990,t+.18,.42,.10);noise(c,t+.24,.12,.03)},

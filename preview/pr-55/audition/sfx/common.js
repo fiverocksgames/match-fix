@@ -12,22 +12,22 @@ function rouletteTicks(c,variant){
     const interval=.045 + Math.pow(p,2.35)*.34;
     const tt=t0+t;
     if(variant==="wood"){
-      osc(c,"triangle",420,320,tt,.045,.065);
+      osc(c,"triangle",420,320,tt,.045,1.0);
       if(i%3===0) noise(c,tt,.025,.012);
     }else if(variant==="tonal"){
       const f=i%2===0?620:560;
-      osc(c,"sine",f,f*.98,tt,.038,.055);
+      osc(c,"sine",f,f*.98,tt,.038,1.0);
     }else{
-      osc(c,"square",760,540,tt,.028,.045);
+      osc(c,"square",760,540,tt,.028,1.0);
       noise(c,tt,.018,.01);
     }
     t+=interval;
     i++;
   }
   const end=t0+duration;
-  if(variant==="wood") osc(c,"triangle",300,220,end,.11,.085);
-  if(variant==="tonal") osc(c,"sine",520,390,end,.12,.08);
-  if(variant==="mechanical") osc(c,"square",430,280,end,.08,.07);
+  if(variant==="wood") osc(c,"triangle",300,220,end,.11,1.0);
+  if(variant==="tonal") osc(c,"sine",520,390,end,.12,1.0);
+  if(variant==="mechanical") osc(c,"square",430,280,end,.08,1.0);
 }
 const fx={
 "deny-soft":c=>{let t=c.currentTime;osc(c,"triangle",380,210,t,.12,.10);noise(c,t,.08,.035)},

@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "2d4d56eaf2cf2fa2fb1cb7b6c49b8f645cebc2d8",
+    "sourceCommit":  "93ae9411e56c9936f39e9642afd3cdb3aca9f6f6",
     "pullRequest":  55,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37278160542",
+    "buildRunId":  "37280728435",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T07:32:43.6609707Z",
+    "builtAt":  "2026-10-05T08:02:03.5260629Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-fmvzK9jU.js",
-                      "sha256":  "e2ab1a070e324647d2372b17743e18e174144ed619d7cdf43e7fcb209c51f087"
+                      "path":  "assets/FeedbackSceneLab-CjDif0g0.js",
+                      "sha256":  "9e1cab2ff45f9095d489d89ce5d29cfccb00196e0e22c528afab64851ca4376f"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,12 +139,12 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-CdQ8XGMI.js",
-                      "sha256":  "172185faf72b7076acdb29937d1b3f5c3e64d284df89da19490df435866b0936"
-                  },
-                  {
                       "path":  "assets/index-C-TIB_7p.css",
                       "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
+                  },
+                  {
+                      "path":  "assets/index-DQ_c-IIO.js",
+                      "sha256":  "0107dccb8a2073436fb45d59332d419144c5a21c1c3aff6886e27461de8deb68"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -160,7 +160,7 @@
                   },
                   {
                       "path":  "audition/sfx/common.js",
-                      "sha256":  "43cf9a72dc8cfda63b52b6d005eea6703ff4c50af861b71feea080f4a016af40"
+                      "sha256":  "1078d245a28ad21447a17b33ac84dbdb3aeb6f64bf199cda247f2b2d04137322"
                   },
                   {
                       "path":  "audition/sfx/deny-error.html",
@@ -172,11 +172,11 @@
                   },
                   {
                       "path":  "audition/sfx/infinite-timeout.html",
-                      "sha256":  "6887f4bac5acd173f7e28eabcf922a8c4d23e1bd6da09f236a4214520d981242"
+                      "sha256":  "f4f66f4da70ec3f25ad14c1a09870a35584d58dd614bea886a16867c2291b800"
                   },
                   {
                       "path":  "audition/sfx/mastery-achievement.html",
-                      "sha256":  "57f1c24868a73f2c15eccc122d375f50c3df8f75cf689ed303b605a9e2324870"
+                      "sha256":  "7d95a8e2ba57d17b8fb267b4b62d263dca94494378f85ff02bfb098e6cd80d1f"
                   },
                   {
                       "path":  "audition/sfx/roulette-reward.html",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "8cdf40d2bb632a9c842cc96285ff430c0c5e4e486bc9101e3f1fe75d2e094a6b"
+                      "sha256":  "7905014019c9669c13430a0640f4a79e79b7496abb4593f1ced959cc60df58e6"
                   },
                   {
                       "path":  "match-fix-logo.svg",

@@ -50,6 +50,9 @@ const fx={
 "timeout-clock":c=>{let t=c.currentTime;[0,.16,.32].forEach((x,i)=>osc(c,"square",i<2?520:220,i<2?500:170,t+x,.08,.10))},
 "timeout-bell":c=>{let t=c.currentTime;osc(c,"sine",660,520,t,.28,.075);osc(c,"sine",330,260,t+.2,.48,.065)},
 "timeout-pulse":c=>{let t=c.currentTime;[0,.22,.46].forEach((x,i)=>osc(c,"triangle",260-i*35,210-i*30,t+x,.16,.075))},
-"timeout-soft-stop":c=>{let t=c.currentTime;osc(c,"sine",520,330,t,.34,.07);osc(c,"triangle",260,130,t+.24,.56,.075);noise(c,t+.28,.16,.012)}
+"timeout-soft-stop":c=>{let t=c.currentTime;osc(c,"sine",520,330,t,.34,.07);osc(c,"triangle",260,130,t+.24,.56,.075);noise(c,t+.28,.16,.012)},
+"timeout-long-fall":c=>{let t=c.currentTime;osc(c,"sine",620,260,t,.72,.072);osc(c,"triangle",310,120,t+.38,.92,.075);osc(c,"sine",155,105,t+1.02,.5,.05)},
+"timeout-long-bell":c=>{let t=c.currentTime;osc(c,"sine",660,520,t,.36,.068);osc(c,"sine",440,300,t+.28,.72,.065);osc(c,"triangle",220,140,t+.72,.8,.06);noise(c,t+.42,.18,.01)},
+"timeout-long-resolve":c=>{let t=c.currentTime;[392,330,262].forEach((f,i)=>osc(c,"sine",f,f*.94,t+i*.28,.72,.065));osc(c,"triangle",196,110,t+.86,1.0,.07)}
 };
 document.addEventListener("click",e=>{const b=e.target.closest("[data-sound]");if(!b)return;const c=ac();if(c.state==="suspended")c.resume();fx[b.dataset.sound]?.(c)});

@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "578855ce3922397cbfed5394ef1f3c1f8c351ba5",
+    "sourceCommit":  "5a999b238906adbb2897aa9808673b9a28bb9784",
     "pullRequest":  55,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37261335248",
+    "buildRunId":  "37263398121",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T03:56:51.5977519Z",
+    "builtAt":  "2026-10-05T04:28:17.5723290Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-TXN31YSc.js",
-                      "sha256":  "5d6727798a61e5311db5a08ea5f84bc135d9d6fb2b495b5934feea3a1723b6e8"
+                      "path":  "assets/FeedbackSceneLab-DmaBWiQ7.js",
+                      "sha256":  "0ea546801b03dd7f4fc326d6cc9d1eccb0c355436ad9a320d45ce904b0fec60f"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -143,8 +143,8 @@
                       "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
                   },
                   {
-                      "path":  "assets/index-DoMUDo6i.js",
-                      "sha256":  "711e1964faa7276db3ab33e6263d72058885b50edf015cbeb27a40d07248dee8"
+                      "path":  "assets/index-EvEUJBVp.js",
+                      "sha256":  "83f7d187094b10fd7d3742436dbc3d2062fb17e44e4bd7f00d6acf68b0de13d2"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -160,7 +160,7 @@
                   },
                   {
                       "path":  "audition/sfx/common.js",
-                      "sha256":  "fafa5a78ceeeaddf63569090d856e2b0382ca89faf85ed44aab800694b8567f4"
+                      "sha256":  "aec40b5ff9562580be60ecef1775a5afeb323df23f08b695b7777c103ddd6a49"
                   },
                   {
                       "path":  "audition/sfx/deny-error.html",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "40e6a32f89ce243e9665b758a560f4408e6960699be2960771a2750cc95acbb7"
+                      "sha256":  "561a812777a181c33c0ebdf1fdc607c9a0c2898eece8ca55b8d994ddf3bfedad"
                   },
                   {
                       "path":  "match-fix-logo.svg",

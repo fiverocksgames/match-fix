@@ -42,8 +42,14 @@ const fx={
 "master-warm":c=>{let t=c.currentTime;[392,523,659].forEach((f,i)=>osc(c,"sine",f,f,t+i*.12,.42,.10))},
 "master-premium":c=>{let t=c.currentTime;[440,554,659,880].forEach((f,i)=>osc(c,"triangle",f,f*1.03,t+i*.09,.34,.10))},
 "master-flourish":c=>{let t=c.currentTime;osc(c,"sine",330,660,t,.36,.10);osc(c,"sine",660,990,t+.18,.42,.10);noise(c,t+.24,.12,.03)},
+"master-fanfare":c=>{let t=c.currentTime;[523,659,784].forEach((f,i)=>osc(c,"triangle",f,f*1.02,t+i*.14,.62,.085));[784,988,1175].forEach((f,i)=>osc(c,"sine",f,f,t+.62+i*.12,.78,.075));osc(c,"sine",523,1046,t+1.02,.7,.07)},
+"master-cascade":c=>{let t=c.currentTime;[392,494,587,784,988].forEach((f,i)=>osc(c,i<3?"triangle":"sine",f,f*1.015,t+i*.18,.72,.072));[659,784,988,1318].forEach((f,i)=>osc(c,"sine",f,f,t+1.05+i*.13,.9,.06));noise(c,t+1.25,.18,.018)},
+"master-celebration":c=>{let t=c.currentTime;[330,392,494].forEach((f,i)=>osc(c,"triangle",f,f*1.02,t+i*.16,.8,.065));[523,659,784,1046].forEach((f,i)=>osc(c,"sine",f,f,t+.72+i*.18,1.05,.065));[784,988,1175,1568].forEach((f,i)=>osc(c,"sine",f,f,t+1.65+i*.14,.95,.052));osc(c,"sine",523,1046,t+2.15,.85,.055);noise(c,t+2.4,.22,.016)},
 "timeout-drop":c=>{let t=c.currentTime;osc(c,"sine",420,110,t,.62,.10)},
 "timeout-two":c=>{let t=c.currentTime;osc(c,"triangle",330,300,t,.18,.10);osc(c,"triangle",180,150,t+.24,.28,.10)},
-"timeout-clock":c=>{let t=c.currentTime;[0,.16,.32].forEach((x,i)=>osc(c,"square",i<2?520:220,i<2?500:170,t+x,.08,.10))}
+"timeout-clock":c=>{let t=c.currentTime;[0,.16,.32].forEach((x,i)=>osc(c,"square",i<2?520:220,i<2?500:170,t+x,.08,.10))},
+"timeout-bell":c=>{let t=c.currentTime;osc(c,"sine",660,520,t,.28,.075);osc(c,"sine",330,260,t+.2,.48,.065)},
+"timeout-pulse":c=>{let t=c.currentTime;[0,.22,.46].forEach((x,i)=>osc(c,"triangle",260-i*35,210-i*30,t+x,.16,.075))},
+"timeout-soft-stop":c=>{let t=c.currentTime;osc(c,"sine",520,330,t,.34,.07);osc(c,"triangle",260,130,t+.24,.56,.075);noise(c,t+.28,.16,.012)}
 };
 document.addEventListener("click",e=>{const b=e.target.closest("[data-sound]");if(!b)return;const c=ac();if(c.state==="suspended")c.resume();fx[b.dataset.sound]?.(c)});

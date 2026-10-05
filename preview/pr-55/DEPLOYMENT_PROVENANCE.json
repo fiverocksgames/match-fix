@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "93ae9411e56c9936f39e9642afd3cdb3aca9f6f6",
+    "sourceCommit":  "41835e6b1a9dcad4ae7caa40baf6c902db12c590",
     "pullRequest":  55,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37280728435",
+    "buildRunId":  "37386962610",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T08:02:03.5260629Z",
+    "builtAt":  "2026-10-05T23:11:37.8824415Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-CjDif0g0.js",
-                      "sha256":  "9e1cab2ff45f9095d489d89ce5d29cfccb00196e0e22c528afab64851ca4376f"
+                      "path":  "assets/FeedbackSceneLab-CXR2opsw.js",
+                      "sha256":  "e6328afb1df3e35e194acadea6ce14cf5dc8cdf9fe9f2b96359694d9a9d90258"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,12 +139,12 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-C-TIB_7p.css",
-                      "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
+                      "path":  "assets/index-CbK7sajv.js",
+                      "sha256":  "97af418cb832afa12e9615123acd59c54acf19850737674629ac45277bd4cf47"
                   },
                   {
-                      "path":  "assets/index-DQ_c-IIO.js",
-                      "sha256":  "0107dccb8a2073436fb45d59332d419144c5a21c1c3aff6886e27461de8deb68"
+                      "path":  "assets/index-C-TIB_7p.css",
+                      "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -164,7 +164,7 @@
                   },
                   {
                       "path":  "audition/sfx/deny-error.html",
-                      "sha256":  "09340dd6857ea3ebb88b9afa43c4f405afc66042e769937766b436774d7f3cc8"
+                      "sha256":  "bd5ff6a0ee114b3ba24a6e4d2223e0e20952637803990ffa400ed191d5ec1fc7"
                   },
                   {
                       "path":  "audition/sfx/index.html",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "7905014019c9669c13430a0640f4a79e79b7496abb4593f1ced959cc60df58e6"
+                      "sha256":  "49311cf0b116cc64de81a07c2f5704cf6a6be086001d05ad5d40e5d217fa03a5"
                   },
                   {
                       "path":  "match-fix-logo.svg",

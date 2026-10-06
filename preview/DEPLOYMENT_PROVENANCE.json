@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "bf316fed344bc313c25cf090aab690eaad53ab06",
+    "sourceCommit":  "d8aeb9ee3a5db3af8452f29977532066834a40a4",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "37257873494",
+    "buildRunId":  "37439617629",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T03:04:58.9811010Z",
+    "builtAt":  "2026-10-06T08:58:09.4455483Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -133,8 +133,8 @@
                       "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
                   },
                   {
-                      "path":  "assets/index-kmfhhZtz.js",
-                      "sha256":  "f4d66900376bc222e2633da193812a76c22ab8c11fc1542cd2f8a251c8952e50"
+                      "path":  "assets/index-W12MWubQ.js",
+                      "sha256":  "d417711fbae43d1d97145eb431d0f26d6f49c73c047df84e18538e1b1bf44bd1"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -143,6 +143,14 @@
                   {
                       "path":  "assets/mock/match-fix-mock-30s.mp4",
                       "sha256":  "9e34a00da08e9191cea5e444f0b9d954d757f1ce309e3cbb0715b47b0c2b8772"
+                  },
+                  {
+                      "path":  "audio/bgm-gameplay.mp3",
+                      "sha256":  "5e791c6edba07522d6f760128d5a4e6eacc56d404c85a566edb91b27f436808a"
+                  },
+                  {
+                      "path":  "audio/bgm-lobby.mp3",
+                      "sha256":  "f1f539677284a596f522f4cbde20b1c97dfdf75674def3d1d60b247506617d12"
                   },
                   {
                       "path":  "favicon.svg",
@@ -162,7 +170,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "66ff719514474038950f0ece5dcdd75f5b6131310a6432d3d96b186924de6d21"
+                      "sha256":  "a8d8b9fe053bca6a7ca92587e449c482725fec8f7b729199ad010dface0ff5ad"
                   },
                   {
                       "path":  "match-fix-logo.svg",

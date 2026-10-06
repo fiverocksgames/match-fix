@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "c18bad6e221455593352c889d9dd56f8ec4ab9c3",
+    "sourceCommit":  "7b6299850e27c4155cfa0cfed83b8cd01470e66e",
     "pullRequest":  57,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37438013596",
+    "buildRunId":  "37444834730",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-06T08:44:57.1694106Z",
+    "builtAt":  "2026-10-06T09:43:34.2040862Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -75,8 +75,8 @@
                       "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-CKJCJ4O9.js",
-                      "sha256":  "98b7ffd4cd085302fc06fb2651d1a9b73a49fdf5fef050de74e7e2b7c60756cb"
+                      "path":  "assets/FeedbackSceneLab-CGB3tepY.js",
+                      "sha256":  "1efaf048537df00a5ab547aa3543c3c58ffeb56ca0d9c3b9703e2a10e98e0bfd"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,8 +139,8 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-BFGegg5-.js",
-                      "sha256":  "1b38a61f965320fc2edd98aeb9c12718b3455400411344fe3b4148a14844bfbe"
+                      "path":  "assets/index-BlhIQkbJ.js",
+                      "sha256":  "397ad62bf2734ce95edf2453b74038775a45524b1e618a2a8ececc7ff162c857"
                   },
                   {
                       "path":  "assets/index-F8QIzVcy.css",
@@ -153,6 +153,14 @@
                   {
                       "path":  "assets/mock/match-fix-mock-30s.mp4",
                       "sha256":  "9e34a00da08e9191cea5e444f0b9d954d757f1ce309e3cbb0715b47b0c2b8772"
+                  },
+                  {
+                      "path":  "audio/bgm-gameplay.mp3",
+                      "sha256":  "5e791c6edba07522d6f760128d5a4e6eacc56d404c85a566edb91b27f436808a"
+                  },
+                  {
+                      "path":  "audio/bgm-lobby.mp3",
+                      "sha256":  "f1f539677284a596f522f4cbde20b1c97dfdf75674def3d1d60b247506617d12"
                   },
                   {
                       "path":  "audio/sfx/infinite-timeout-piano-negative.ogg",
@@ -180,7 +188,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "693f7f62a098a948327f9e9583e4a1e6505e9804f33994caadb5403f444c4ca7"
+                      "sha256":  "1f26f694d8518d15d3c64a27f70b717e33e96444ff9c1b72e28a2e377501df94"
                   },
                   {
                       "path":  "match-fix-logo.svg",

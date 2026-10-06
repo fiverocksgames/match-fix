@@ -2,12 +2,12 @@
     "schemaVersion":  1,
     "channel":  "ephemeral-pr-preview",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "6d7546d6e303d85baa82299c2f66dd563495c7f1",
+    "sourceCommit":  "aa9e71ff352cba12386fe56859545f8fb0beb4cd",
     "pullRequest":  57,
     "buildWorkflow":  "PR Preview Build",
-    "buildRunId":  "37387521220",
+    "buildRunId":  "37392327776",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-05T23:18:32.5605975Z",
+    "builtAt":  "2026-10-06T00:15:09.9441071Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -71,12 +71,12 @@
                       "sha256":  "ba10f0635da7e8e577e7244cb531d9b7514243ed78c773386fb7797b57b4b398"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-CA-JpkVL.css",
-                      "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
+                      "path":  "assets/FeedbackSceneLab-4NXKjGVW.js",
+                      "sha256":  "113b56d31b0a82e0d602435cdf422d3dd414b154d978db42369c436b937de42c"
                   },
                   {
-                      "path":  "assets/FeedbackSceneLab-ElDBWYa7.js",
-                      "sha256":  "0d0e25bcb4b9ef3d718fbc8725b48e47db00c58aea236f955f1015ebcd0e871f"
+                      "path":  "assets/FeedbackSceneLab-CA-JpkVL.css",
+                      "sha256":  "54d7c25fae43d7d5d6a950ab94c46fbcd9342826667cb7cea243fb715fd35352"
                   },
                   {
                       "path":  "assets/feedback-timeout-bg-CTZqB5xO.png",
@@ -139,8 +139,8 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-B8LMGseO.js",
-                      "sha256":  "4ae2baefa335783391d789c6e9337f53ec698ca57a36f993ef8eacdfe7a9b24c"
+                      "path":  "assets/index-CL8hUC3w.js",
+                      "sha256":  "8eb1f1d6bd8eb602b77df6a81d12db14bb5ff180852cf96b5327d87de5e9bfe8"
                   },
                   {
                       "path":  "assets/index-F8QIzVcy.css",
@@ -153,6 +153,14 @@
                   {
                       "path":  "assets/mock/match-fix-mock-30s.mp4",
                       "sha256":  "9e34a00da08e9191cea5e444f0b9d954d757f1ce309e3cbb0715b47b0c2b8772"
+                  },
+                  {
+                      "path":  "audio/sfx/infinite-timeout-piano-negative.ogg",
+                      "sha256":  "b79a839122e5d2d4e9038bb21db306615cde91e23e98ae1c910d2dd1d5f374bf"
+                  },
+                  {
+                      "path":  "audio/sfx/spin-reward-bell-positive-01.ogg",
+                      "sha256":  "c43b0cce62071f325e09e464a5ed133e1435bcb35e116692208f384bef3b8459"
                   },
                   {
                       "path":  "favicon.svg",
@@ -172,7 +180,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "bf756ee973092a4c50075fd5d0f5a2a4947aa39370989c7cfc8efa676b519411"
+                      "sha256":  "c21e06560f4b229ae8e56f8b981e15298b0fff4bd84027cb14427e18eb30e63f"
                   },
                   {
                       "path":  "match-fix-logo.svg",

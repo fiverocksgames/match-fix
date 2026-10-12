@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "d8aeb9ee3a5db3af8452f29977532066834a40a4",
+    "sourceCommit":  "b4b2a14c050c6eb9df60c5fbaec9b799db834e77",
     "buildWorkflow":  "Source CI",
-    "buildRunId":  "37439617629",
+    "buildRunId":  "38217093680",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-06T08:58:09.4455483Z",
+    "builtAt":  "2026-10-12T07:20:24.1547551Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -129,12 +129,12 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-C-TIB_7p.css",
-                      "sha256":  "366ed70fb2c57f7f209f28f46d6b0839bfa114ebe79d8be49c5bf6e37f72103a"
+                      "path":  "assets/index-F8QIzVcy.css",
+                      "sha256":  "c1e2eceb6754604ab41216bdda96959b6a65777159ebb00f8882940126129b4f"
                   },
                   {
-                      "path":  "assets/index-W12MWubQ.js",
-                      "sha256":  "d417711fbae43d1d97145eb431d0f26d6f49c73c047df84e18538e1b1bf44bd1"
+                      "path":  "assets/index-UHPuDrKd.js",
+                      "sha256":  "dc40b76e3f0b7666f3fc03903ed007f454d5231d7f105a63400998040976e27a"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -151,6 +151,14 @@
                   {
                       "path":  "audio/bgm-lobby.mp3",
                       "sha256":  "f1f539677284a596f522f4cbde20b1c97dfdf75674def3d1d60b247506617d12"
+                  },
+                  {
+                      "path":  "audio/sfx/infinite-timeout-piano-negative.ogg",
+                      "sha256":  "b79a839122e5d2d4e9038bb21db306615cde91e23e98ae1c910d2dd1d5f374bf"
+                  },
+                  {
+                      "path":  "audio/sfx/spin-reward-bell-positive-01.ogg",
+                      "sha256":  "c43b0cce62071f325e09e464a5ed133e1435bcb35e116692208f384bef3b8459"
                   },
                   {
                       "path":  "favicon.svg",
@@ -170,7 +178,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "a8d8b9fe053bca6a7ca92587e449c482725fec8f7b729199ad010dface0ff5ad"
+                      "sha256":  "7b3f14ff88e06b26dad6d0b28d6b518bcaabc81a804b53ed7cc1fe6d91b47d28"
                   },
                   {
                       "path":  "match-fix-logo.svg",

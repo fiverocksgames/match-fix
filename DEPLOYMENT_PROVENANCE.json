@@ -1,13 +1,13 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "b7c448406578d53ca11a03dc6efadde35d45b0ae",
-    "releaseVersion":  "v1.0.1",
-    "sourceCiRunId":  "42321710769",
+    "sourceCommit":  "a01962bdc288fb17a50b3f241e014f96556d6178",
+    "releaseVersion":  "v1.0.2",
+    "sourceCiRunId":  "42351786519",
     "buildWorkflow":  "Official Release",
-    "buildRunId":  "42322534398",
+    "buildRunId":  "42357055081",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-11-07T01:10:48.9441454Z",
+    "builtAt":  "2026-11-07T08:49:59.0429704Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -131,12 +131,12 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-DSIyY2Wh.js",
-                      "sha256":  "d09684be3329bb7dc139cf486781104b50c5ff16b8f255e5545bbb6884afa3da"
+                      "path":  "assets/index-DEiZQR45.css",
+                      "sha256":  "f313e950046691aa7723bb40ebad91660012f0838860a5ac711c9da63738bff0"
                   },
                   {
-                      "path":  "assets/index-F8QIzVcy.css",
-                      "sha256":  "c1e2eceb6754604ab41216bdda96959b6a65777159ebb00f8882940126129b4f"
+                      "path":  "assets/index-NQgO8IUb.js",
+                      "sha256":  "f5e5204628cee40f6b065262576fa07f35ed214d80f3ae84d047002ffc6b7b15"
                   },
                   {
                       "path":  "assets/mock/manifest.json",
@@ -180,7 +180,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "348d06d0466d7576a88508997e65f48984cf3bd9d175108d7257ecd58c388203"
+                      "sha256":  "e1bf888169821ca3d3eb9fb3a379ee62b8ad45df4b024a63b38957187e5446b0"
                   },
                   {
                       "path":  "match-fix-logo.svg",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "RELEASE_METADATA.json",
-                      "sha256":  "5583075e1edc9cc70b7e462028010d3cea01d09be57018f07fffb35e4e166bdc"
+                      "sha256":  "21807e5d4c83b023ce21f689e16e58d652230b8f43ceeed1f56a2f3bb60f7200"
                   }
               ]
 }

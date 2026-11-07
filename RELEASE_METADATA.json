@@ -1,10 +1,10 @@
 ﻿{
     "schemaVersion":  1,
-    "releaseVersion":  "v1.0.1",
+    "releaseVersion":  "v1.0.2",
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "b7c448406578d53ca11a03dc6efadde35d45b0ae",
+    "sourceCommit":  "a01962bdc288fb17a50b3f241e014f96556d6178",
     "releaseWorkflow":  "Official Release",
-    "releaseRunId":  "42322534398",
+    "releaseRunId":  "42357055081",
     "runnerName":  "FRD-LAPTOP-01",
-    "preparedAt":  "2026-11-07T01:10:48.1750558Z"
+    "preparedAt":  "2026-11-07T08:49:58.2350977Z"
 }

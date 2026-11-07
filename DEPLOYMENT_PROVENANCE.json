@@ -1,13 +1,13 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/match-fix",
-    "sourceCommit":  "b9cef7f491999c76fe34f39307fea20914cf45c6",
-    "releaseVersion":  "v1.0.0",
-    "sourceCiRunId":  "38377167802",
+    "sourceCommit":  "b7c448406578d53ca11a03dc6efadde35d45b0ae",
+    "releaseVersion":  "v1.0.1",
+    "sourceCiRunId":  "42321710769",
     "buildWorkflow":  "Official Release",
-    "buildRunId":  "38416884622",
+    "buildRunId":  "42322534398",
     "runnerName":  "FRD-LAPTOP-01",
-    "builtAt":  "2026-10-13T14:51:41.2207988Z",
+    "builtAt":  "2026-11-07T01:10:48.9441454Z",
     "toolchain":  "React 19.2 / Vite 8 / Node 24",
     "files":  [
                   {
@@ -131,8 +131,8 @@
                       "sha256":  "957b43446a7418cceae4559ba5a7362a44493a55a2061e93491e64292cf92eec"
                   },
                   {
-                      "path":  "assets/index-2jtpzNSi.js",
-                      "sha256":  "a5950783a6dc6df413c88780ef89e223fbe99c42b8bf0a6f3eb43586ef8758e9"
+                      "path":  "assets/index-DSIyY2Wh.js",
+                      "sha256":  "d09684be3329bb7dc139cf486781104b50c5ff16b8f255e5545bbb6884afa3da"
                   },
                   {
                       "path":  "assets/index-F8QIzVcy.css",
@@ -180,7 +180,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "85dd8f762d4e67910343473b4957b58e2ec2dddd08d7551c7143a3152d18371a"
+                      "sha256":  "348d06d0466d7576a88508997e65f48984cf3bd9d175108d7257ecd58c388203"
                   },
                   {
                       "path":  "match-fix-logo.svg",
@@ -200,7 +200,7 @@
                   },
                   {
                       "path":  "RELEASE_METADATA.json",
-                      "sha256":  "bbcfbb927c187d75a95e69634f7db1e9083ca3315033c814a0e09572b8a0de9c"
+                      "sha256":  "5583075e1edc9cc70b7e462028010d3cea01d09be57018f07fffb35e4e166bdc"
                   }
               ]
 }
